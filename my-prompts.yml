@@ -1,0 +1,34 @@
+- prompt: |
+  Write a professional email to a stakeholder explaining that you need more information for the new WhatsApp project to do a thorough requirement analysis.
+  tags:
+  - email
+  - stakeholder
+  - requirement analysis
+  - WhatsApp project
+  tone: professional
+  audience: stakeholder
+  instructions: |
+  - Clearly state the need for additional information.
+  - Mention the importance of thorough requirement analysis.
+  - Request specific details or documents if possible.
+  - Be polite and concise.
+  Subject: Request for Additional Information – WhatsApp Project Requirement Analysis
+
+Dear [Stakeholder's Name],
+
+I hope this message finds you well.
+
+As we begin the initial stages of the WhatsApp project, I am currently conducting a thorough requirement analysis to ensure we align with the project's objectives and deliverables. To proceed effectively, I would appreciate your assistance in providing further details regarding the scope, target audience, key functionalities, and any specific business goals or constraints associated with the project.
+
+Having a clearer understanding of these elements will enable us to define the technical and operational requirements more accurately and ensure that our solution is both robust and aligned with stakeholder expectations.
+
+Please let me know a convenient time for a brief discussion, or feel free to share any relevant documentation or insights at your earliest convenience.
+
+Thank you for your support and collaboration.
+
+Warm regards,
+[Your Full Name]
+[Your Job Title]
+[Your Company Name]
+[Your Contact Information]
+git add .
